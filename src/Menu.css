@@ -1,0 +1,29 @@
+nav {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-bottom: 2px solid #ccc;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+li {
+    margin: 0;
+}
+
+button {
+    background-color: #6200ea;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #3700b3;
+}
